@@ -3,7 +3,7 @@
 ## Home Page
 ![Home](Adventure-Home-Page.jpeg)
 
-## 🔍 Explore Page
+## Explore Page
 ![Explore](Adventure-Explore-page.jpeg)
 
 ## Tours Page
@@ -24,5 +24,5 @@
 - images (jpeg files)
 
 
-## 🚀 Author
+## Author
 Aakanksha Kakde
