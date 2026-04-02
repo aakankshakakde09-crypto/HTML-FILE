@@ -1,13 +1,28 @@
 #  Adventure Website
 
 ## Home Page
-![Home Page](Adventure-Home-Page.jpeg)
+![Home](Adventure-Home-Page.jpeg)
 
-## Explore Page
-![Explore Page](Adventure-Explore-page.jpeg)
+## 🔍 Explore Page
+![Explore](Adventure-Explore-page.jpeg)
 
 ## Tours Page
-![Tours Page](Adventure-Tourse-page.jpeg)
+![Tours](Adventure-Tourse-page.jpeg)
 
 ## Upcoming Events
-![Events Page](Adventure-Upcoming-Event-Page.jpeg)
+![Events](Adventure-Upcoming-Event-Page.jpeg)
+
+
+## Technologies Used
+- HTML5
+- CSS3
+
+
+## Project Structure
+- index.html
+- style.css
+- images (jpeg files)
+
+
+## 🚀 Author
+Aakanksha Kakde
